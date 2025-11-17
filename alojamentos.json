@@ -1,0 +1,34 @@
+[
+    {
+        "id_alojamento": 1,
+        "id_proprietario": 1,
+        "nome_alojamento": "Casa da Praia Solarenga",
+        "morada": "Rua da Areia, 123, Algarve",
+        "tipo_quarto": "Casa Inteira (T2)",
+        "preco_noite": 120.0
+    },
+    {
+        "id_alojamento": 2,
+        "id_proprietario": 1,
+        "nome_alojamento": "Refúgio da Serra",
+        "morada": "Caminho da Floresta, Gerês",
+        "tipo_quarto": "Cabana (T1)",
+        "preco_noite": 85.0
+    },
+    {
+        "id_alojamento": 3,
+        "id_proprietario": 1,
+        "nome_alojamento": "Apartamento Citadino",
+        "morada": "Av. da Liberdade, Lisboa",
+        "tipo_quarto": "Quarto Privado",
+        "preco_noite": 55.0
+    },
+    {
+        "id_alojamento": 4,
+        "id_proprietario": 1,
+        "nome_alojamento": "Casa de Pasto",
+        "morada": "Rua da Aldeia",
+        "tipo_quarto": "Moradia",
+        "preco_noite": 39.0
+    }
+]

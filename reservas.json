@@ -1,0 +1,20 @@
+[
+    {
+        "id_reserva": 2,
+        "id_alojamento": 2,
+        "nome_hospede": "Joaquim Santos",
+        "email_hospede": "Joaquim.s@email.com",
+        "check_in": "2025-12-20",
+        "check_out": "2025-12-27",
+        "codigo_reserva": "X9Y"
+    },
+    {
+        "id_reserva": 4,
+        "id_alojamento": 1,
+        "nome_hospede": "Miguel Sousa",
+        "email_hospede": "msousa@email.pt",
+        "check_in": "2026-01-12",
+        "check_out": "2026-01-13",
+        "codigo_reserva": "C50"
+    }
+]
